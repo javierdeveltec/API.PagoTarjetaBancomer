@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API.PagoTarjetaBancomer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79173d3030b2cd3e4be5fc26448d94df02dd5941")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97898c979ef46cae000087d540c6f9fbffd8c10d")]
 [assembly: System.Reflection.AssemblyProductAttribute("API.PagoTarjetaBancomer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API.PagoTarjetaBancomer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
