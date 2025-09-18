@@ -2,7 +2,7 @@
 {
     public enum Moneda { Pesos, Dolares }
 
-    public enum Firma { SinFirma = 0, Autografa = 1, Electronica = 2, Qps = 3 }
+    public enum Firma { SinFirma = 0, Autografa = 1, Electronica = 2 }
 
     public enum Operacion
     {
